@@ -24,5 +24,7 @@ then install pypwin32
 command : pip install pypiwin32.
 
 2.pip install speechRecognition
+
 3.pip install wikipedia
+
 4.pip install ecapture
