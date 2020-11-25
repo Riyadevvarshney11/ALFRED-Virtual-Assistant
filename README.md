@@ -12,12 +12,16 @@ It can do following tasks:
 9. Open code
 
 You will be requiring to install following pip libraries :
+
 NOTE: Run these statements on your command propmt, Window powershell or any other command line interpreter.
 
 1. pip install pyttsx3
-In case you receive such errors: 
+In case you receive such errors:
+
 No module named win32com.client
+
 No module named win32
+
 No module named win32api
 
 then install pypwin32
