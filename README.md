@@ -26,13 +26,15 @@ $ npm install
 ```
 Following Libraries have been used: 
 NOTE: Run these statements on your command propmt, Window powershell or any other command line interpreter.
+```
 
-* pip install pyttsx3 
-* pip install pypwin32
-* pip install speechRecognition
-* pip install wikipedia
-* pip install ecapture
+$ pip install pyttsx3 
+$ pip install pypwin32
+$ pip install speechRecognition
+$ pip install wikipedia
+$ pip install ecapture
 
+```
 ## Features
 ***
 
